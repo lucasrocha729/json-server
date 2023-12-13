@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Michael",
+            "company": "mock-company",
+            "status": "unregistered"
+        },
+        {
+            "id": 2,
+            "name": "Lindsay",
+            "company": "mock-company",
+            "status": "unregistered"
+        },
+        {
+            "id": 3,
+            "name": "Tobias",
+            "company": "mock-company",
+            "status": "unregistered"
+        },
+        {
+            "id":4,
+            "name": "Byron",
+            "company": "mock-company",
+            "status": "unregistered"
+        },
+        {
+            "id": 5,
+            "name": "George",
+            "company": "mock-company",
+            "status": "unregistered"
+        },
+        {
+            "id": 6,
+            "name": "Rachel",
+            "company": "mock-company",
+            "status": "unregistered"
+        }
+    ]
+}
